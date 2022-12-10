@@ -1,5 +1,5 @@
 # Fast-Fourier-Transform-FFT
-Hàm sinh đa thức - Nhân đa thức
+Hàm sinh - Đa thức - Nhân đa thức
 
 ## Cơ sở lý thuyết
 * Codeforces: https://codeforces.com/blog/entry/43499
